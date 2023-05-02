@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "chefName": "Nongkran Daks",
+      "chefPicture": "https://example.com/nongkran-daks.jpg",
+      "yearsOfExperience": 20,
+      "numberOfRecipes": 80,
+      "likes": 8000,
+      "viewRecipesButton": "https://example.com/nongkran-daks/recipes"
+    },
+    {
+      "id": 2,
+      "chefName": "Andy Ricker",
+      "chefPicture": "https://example.com/andy-ricker.jpg",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 70,
+      "likes": 7000,
+      "viewRecipesButton": "https://example.com/andy-ricker/recipes"
+    },
+    {
+      "id": 3,
+      "chefName": "Ian Kittichai",
+      "chefPicture": "https://example.com/ian-kittichai.jpg",
+      "yearsOfExperience": 18,
+      "numberOfRecipes": 60,
+      "likes": 6000,
+      "viewRecipesButton": "https://example.com/ian-kittichai/recipes"
+    },
+    {
+      "id": 4,
+      "chefName": "Duangporn Songvisava",
+      "chefPicture": "https://example.com/duangporn-songvisava.jpg",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 50,
+      "likes": 5000,
+      "viewRecipesButton": "https://example.com/duangporn-songvisava/recipes"
+    },
+    {
+      "id": 5,
+      "chefName": "Chalee Kader",
+      "chefPicture": "https://example.com/chalee-kader.jpg",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 30,
+      "likes": 3000,
+      "viewRecipesButton": "https://example.com/chalee-kader/recipes"
+    },
+    {
+      "id": 6,
+      "chefName": "Prin Polsuk",
+      "chefPicture": "https://example.com/prin-polsuk.jpg",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 40,
+      "likes": 4000,
+      "viewRecipesButton": "https://example.com/prin-polsuk/recipes"
+    },
+    {
+      "id": 7,
+      "chefName": "Chumpol Jangprai",
+      "chefPicture": "https://example.com/chumpol-jangprai.jpg",
+      "yearsOfExperience": 25,
+      "numberOfRecipes": 100,
+      "likes": 10000,
+      "viewRecipesButton": "https://example.com/chumpol-jangprai/recipes"
+    },
+    {
+      "id": 8,
+      "chefName": "Bo Songvisava",
+      "chefPicture": "https://example.com/bo-songvisava.jpg",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 55,
+      "likes": 5500,
+      "viewRecipesButton": "https://example.com/bo-songvisava/recipes"
+    }
+]
