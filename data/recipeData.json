@@ -22,8 +22,6 @@
           "butter",
           "garlic",
           "lemon juice",
-          "parsley",
-          "salt",
           "black pepper"
         ],
         "cookingMethod": "Saute garlic in butter, add shrimp and cook until pink, add lemon juice and parsley, season with salt and black pepper.",
@@ -38,8 +36,6 @@
           "broccoli",
           "soy sauce",
           "oyster sauce",
-          "cornstarch",
-          "garlic",
           "ginger",
           "brown sugar",
           "sesame oil"
@@ -54,7 +50,6 @@
         "ingredients": [
           "chicken thighs",
           "soy sauce",
-          "vinegar",
           "garlic",
           "bay leaves",
           "peppercorns",
@@ -72,7 +67,6 @@
           "carrots",
           "peas",
           "corn",
-          "eggs",
           "soy sauce",
           "garlic",
           "green onions"
