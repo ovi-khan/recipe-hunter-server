@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "recipeName": "Classic Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti pasta",
+          "pancetta or bacon",
+          "eggs",
+          "parmesan cheese",
+          "garlic",
+          "black pepper"
+        ],
+        "cookingMethod": "Boil spaghetti, saute garlic and pancetta, mix eggs and cheese, combine all ingredients and season with black pepper.",
+        "rating": 4.5,
+        "favorites": [3]
+      },
+      {
+        "id": 2,
+        "recipeName": "Garlic Butter Shrimp",
+        "ingredients": [
+          "shrimp",
+          "butter",
+          "garlic",
+          "lemon juice",
+          "parsley",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Saute garlic in butter, add shrimp and cook until pink, add lemon juice and parsley, season with salt and black pepper.",
+        "rating": 4.2,
+        "favorites": [3]
+      },
+      {
+        "id": 3,
+        "recipeName": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "oyster sauce",
+          "cornstarch",
+          "garlic",
+          "ginger",
+          "brown sugar",
+          "sesame oil"
+        ],
+        "cookingMethod": "Stir fry beef, broccoli, garlic, and ginger, add soy sauce, oyster sauce, and brown sugar, thicken with cornstarch, drizzle with sesame oil.",
+        "rating": 4.8,
+        "favorites": [3]
+      },
+      {
+        "id": 4,
+        "recipeName": "Chicken Adobo",
+        "ingredients": [
+          "chicken thighs",
+          "soy sauce",
+          "vinegar",
+          "garlic",
+          "bay leaves",
+          "peppercorns",
+          "brown sugar"
+        ],
+        "cookingMethod": "Marinate chicken in soy sauce and vinegar, brown chicken and garlic, add marinade and simmer with bay leaves, peppercorns, and brown sugar.",
+        "rating": 4.6,
+        "favorites": [3]
+      },
+      {
+        "id": 5,
+        "recipeName": "Vegetable Fried Rice",
+        "ingredients": [
+          "cooked rice",
+          "carrots",
+          "peas",
+          "corn",
+          "eggs",
+          "soy sauce",
+          "garlic",
+          "green onions"
+        ],
+        "cookingMethod": "Saute garlic, carrots, peas, and corn, scramble eggs, add rice and soy sauce, stir fry until heated through, garnish with green onions.",
+        "rating": 4.3,
+        "favorites": [3]
+      },
+      {
+        "id": 6,
+        "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
+        "ingredients": [
+          "pasta",
+          "basil pesto",
+          "sun-dried tomatoes",
+          "parmesan cheese",
+          "garlic",
+          "olive oil"
+        ],
+        "cookingMethod": "Boil pasta, saute garlic in olive oil, add sun-dried tomatoes and pasta, toss with pesto and parmesan cheese.",
+        "rating": 4.7,
+        "favorites": [3]
+      },
+      {
+        "id": 7,
+        "recipeName": "Stuffed Bell Peppers",
+        "ingredients": [
+          "bell peppers",
+          "ground beef",
+          "rice",
+          "tomato sauce",
+          "onion",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "cookingMethod": "Cut tops off bell peppers, brown beef with onion and garlic, mix with rice and tomato sauce, stuff into peppers, bake at 375F for 40 minutes.",
+        "rating": 4.8,
+        "favorites": [2, 7]
+      },
+      {
+        "id": 8,
+        "recipeName": "Thai Green Curry",
+        "ingredients": [
+          "coconut milk",
+          "chicken",
+          "green curry paste",
+          "vegetables",
+          "fish sauce",
+          "brown sugar",
+          "lime juice",
+          "basil leaves"
+        ],
+        "cookingMethod": "Cook chicken and vegetables in curry paste, add coconut milk and simmer, add fish sauce, sugar, lime juice, and basil leaves.",
+        "rating": 4.9,
+        "favorites": [5, 9]
+      },
+      {
+        "id": 9,
+        "recipeName": "Spicy Shrimp Tacos",
+        "ingredients": [
+          "shrimp",
+          "taco shells",
+          "cabbage",
+          "jalapeno",
+          "lime",
+          "cilantro",
+          "sour cream",
+          "hot sauce"
+        ],
+        "cookingMethod": "Season shrimp and saute until cooked, mix cabbage, jalapeno, lime juice, and cilantro for slaw, assemble tacos with slaw, shrimp, sour cream, and hot sauce.",
+        "rating": 4.7,
+        "favorites": [3, 6]
+      },
+      {
+        "id": 10,
+        "recipeName": "Chicken Alfredo",
+        "ingredients": [
+          "fettuccine",
+          "chicken",
+          "heavy cream",
+          "parmesan cheese",
+          "butter",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "cookingMethod": "Cook pasta, saute garlic in butter, add chicken and cook, add cream and cheese, toss with pasta.",
+        "rating": 4.6,
+        "favorites": [2, 4]
+      },
+      {
+        "id": 11,
+        "recipeName": "Spicy Tofu Stir-Fry",
+        "ingredients": [
+          "firm tofu",
+          "green beans",
+          "carrots",
+          "red bell pepper",
+          "green onions",
+          "soy sauce",
+          "sriracha",
+          "garlic",
+          "ginger",
+          "sesame oil",
+          "cornstarch"
+        ],
+        "cookingMethod": "Press and cube tofu, saute with veggies and garlic/ginger, mix soy sauce/sriracha/cornstarch/sesame oil and pour over stir-fry.",
+        "rating": 4.2,
+        "favorites": [1, 5]
+      },
+      {
+        "id": 12,
+        "recipeName": "Crispy Baked Chicken Tenders",
+        "ingredients": [
+          "chicken tenders",
+          "breadcrumbs",
+          "parmesan cheese",
+          "paprika",
+          "garlic powder",
+          "salt",
+          "pepper",
+          "eggs"
+        ],
+        "cookingMethod": "Mix breadcrumbs/parmesan/seasonings in one bowl, whisk eggs in another, dip chicken in egg then breadcrumb mixture, bake until golden brown and crispy.",
+        "rating": 4.5,
+        "favorites": [2, 4]
+      },
+      {
+        "id": 13,
+        "recipeName": "Quinoa Stuffed Bell Peppers",
+        "ingredients": [
+          "quinoa",
+          "bell peppers",
+          "onion",
+          "mushrooms",
+          "spinach",
+          "garlic",
+          "crushed tomatoes",
+          "parmesan cheese"
+        ],
+        "cookingMethod": "Cook quinoa, saute onion/mushrooms/spinach/garlic, mix with cooked quinoa and crushed tomatoes, stuff mixture into halved bell peppers, top with parmesan cheese and bake.",
+        "rating": 4.1,
+        "favorites": [3, 7]
+      },
+      {
+        "id": 14,
+        "recipeName": "Teriyaki Salmon",
+        "ingredients": [
+          "salmon fillets",
+          "soy sauce",
+          "honey",
+          "rice vinegar",
+          "garlic",
+          "ginger",
+          "cornstarch",
+          "green onions"
+        ],
+        "cookingMethod": "Whisk soy sauce/honey/rice vinegar/garlic/ginger/cornstarch in bowl, pan-sear salmon until crispy, add teriyaki sauce and sliced green onions to pan and let sauce thicken.",
+        "rating": 4.8,
+        "favorites": [6, 9]
+      },
+      {
+        "id": 15,
+        "recipeName": "Vegan Lentil Soup",
+        "ingredients": [
+          "red lentils",
+          "carrots",
+          "celery",
+          "onion",
+          "garlic",
+          "tomatoes",
+          "vegetable broth",
+          "turmeric",
+          "cumin",
+          "paprika",
+          "cilantro"
+        ],
+        "cookingMethod": "Saute onion/celery/carrots/garlic, add lentils/tomatoes/spices/broth, simmer until lentils are cooked through, top with chopped cilantro.",
+        "rating": 4.3,
+        "favorites": [2, 8]
+      },
+      {
+        "id": 16,
+        "recipeName": "Honey Mustard Chicken",
+        "ingredients": [
+          "chicken breasts",
+          "honey",
+          "Dijon mustard",
+          "garlic powder",
+          "olive oil",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Mix honey, Dijon mustard, garlic powder, salt, and pepper to make a marinade. Coat chicken with marinade and let sit for 30 minutes. Preheat oven to 375°F. Heat olive oil in a skillet over medium-high heat. Sear chicken until browned on both sides. Transfer to a baking dish and bake in the oven for 15-20 minutes or until cooked through.",
+        "rating": 4.5,
+        "favorites": [2, 5]
+      },
+      {
+        "id": 17,
+        "recipeName": "Mushroom Risotto",
+        "ingredients": [
+          "arborio rice",
+          "mushrooms",
+          "chicken or vegetable broth",
+          "parmesan cheese",
+          "butter",
+          "onion",
+          "white wine",
+          "garlic",
+          "olive oil",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Heat olive oil and butter in a large pot over medium heat. Add onion and garlic, cook until soft. Add arborio rice and cook until translucent. Pour in white wine and stir until absorbed. Gradually add broth, stirring occasionally, until rice is cooked al dente. Add mushrooms and continue cooking until they are tender. Stir in parmesan cheese, salt, and pepper.",
+        "rating": 4.8,
+        "favorites": [1, 3]
+      },
+      {
+        "id": 18,
+        "recipeName": "Grilled Salmon with Mango Salsa",
+        "ingredients": [
+          "salmon fillets",
+          "mango",
+          "red onion",
+          "jalapeno pepper",
+          "lime",
+          "cilantro",
+          "olive oil",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Preheat grill to medium-high heat. Season salmon fillets with salt and pepper. Grill salmon for 5-6 minutes on each side. In a bowl, combine diced mango, red onion, jalapeno pepper, lime juice, and cilantro. Drizzle with olive oil and stir. Serve grilled salmon with mango salsa on top.",
+        "rating": 4.6,
+        "favorites": [4]
+      },
+      {
+        "id": 19,
+        "recipeName": "Eggplant Parmesan",
+        "ingredients": [
+          "eggplant",
+          "flour",
+          "eggs",
+          "breadcrumbs",
+          "tomato sauce",
+          "mozzarella cheese",
+          "parmesan cheese",
+          "olive oil",
+          "salt",
+          "black pepper"
+        ],
+        "cookingMethod": "Preheat oven to 375°F. Cut eggplant into 1/2-inch slices. Dip slices into flour, then egg, then breadcrumbs. Heat olive oil in a skillet over medium-high heat. Fry eggplant until browned on both sides. Transfer to a baking dish. Pour tomato sauce on top of eggplant. Sprinkle with mozzarella cheese and parmesan cheese. Bake in the oven for 20-25 minutes or until cheese is melted and bubbly.",
+        "rating": 4.4,
+        "favorites": [6]
+      }
+      
+]
