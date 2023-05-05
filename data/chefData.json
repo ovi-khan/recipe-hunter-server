@@ -7,7 +7,19 @@
       "numberOfRecipes": 80,
       "likes": 8000,
       "description": "Nongkran Daks is a renowned chef with 20 years of experience in the culinary industry. She has created 80 unique recipes that have gained over 8000 likes on her social media pages. Her passion for cooking and unique flavors are evident in every dish she creates.",
-      "viewRecipesButton": "https://example.com/nongkran-daks/recipes"
+      "viewRecipesButton": "https://example.com/nongkran-daks/recipes",
+      "recipeName": "Classic Spaghetti Carbonara",
+      "ingredients": [
+        "spaghetti pasta",
+        "pancetta or bacon",
+        "eggs",
+        "parmesan cheese",
+        "garlic",
+        "black pepper"
+      ],
+      "cookingMethod": "Boil spaghetti, saute garlic and pancetta, mix eggs and cheese, combine all ingredients and season with black pepper.",
+      "rating": 4.5,
+      "favorites": [3]
     },
     {
       "id": 2,
@@ -17,7 +29,18 @@
       "numberOfRecipes": 70,
       "likes": 7000,
       "description": "Andy Ricker is a master of Thai cuisine with 15 years of experience. He has created over 70 recipes that have garnered 7000 likes on his social media pages. His dishes are a perfect blend of traditional Thai flavors and modern cooking techniques.",
-      "viewRecipesButton": "https://example.com/andy-ricker/recipes"
+      "viewRecipesButton": "https://example.com/andy-ricker/recipes",
+      "recipeName": "Garlic Butter Shrimp",
+      "ingredients": [
+        "shrimp",
+        "butter",
+        "garlic",
+        "lemon juice",
+        "black pepper"
+      ],
+      "cookingMethod": "Saute garlic in butter, add shrimp and cook until pink, add lemon juice and parsley, season with salt and black pepper.",
+      "rating": 4.2,
+      "favorites": [3]
     },
     {
       "id": 3,
@@ -27,7 +50,20 @@
       "numberOfRecipes": 60,
       "likes": 6000,
       "description": "Ian Kittichai is a celebrated chef with 18 years of experience in the culinary world. He has created 60 unique recipes that have gained over 6000 likes on his social media pages. His dishes are known for their rich flavors and innovative twists.",
-      "viewRecipesButton": "https://example.com/ian-kittichai/recipes"
+      "viewRecipesButton": "https://example.com/ian-kittichai/recipes",
+      "recipeName": "Beef and Broccoli Stir Fry",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "soy sauce",
+          "oyster sauce",
+          "ginger",
+          "brown sugar",
+          "sesame oil"
+        ],
+        "cookingMethod": "Stir fry beef, broccoli, garlic, and ginger, add soy sauce, oyster sauce, and brown sugar, thicken with cornstarch, drizzle with sesame oil.",
+        "rating": 4.8,
+        "favorites": [3]
     },
     {
       "id": 4,
@@ -37,7 +73,19 @@
       "numberOfRecipes": 50,
       "likes": 5000,
       "description": "Duangporn Songvisava is a talented chef with 12 years of experience in the industry. She has created 50 delicious recipes that have garnered 5000 likes on her social media pages. Her dishes are a perfect blend of traditional Thai flavors and modern cooking techniques.",
-      "viewRecipesButton": "https://example.com/duangporn-songvisava/recipes"
+      "viewRecipesButton": "https://example.com/duangporn-songvisava/recipes",
+      "recipeName": "Chicken Adobo",
+        "ingredients": [
+          "chicken thighs",
+          "soy sauce",
+          "garlic",
+          "bay leaves",
+          "peppercorns",
+          "brown sugar"
+        ],
+        "cookingMethod": "Marinate chicken in soy sauce and vinegar, brown chicken and garlic, add marinade and simmer with bay leaves, peppercorns, and brown sugar.",
+        "rating": 4.6,
+        "favorites": [3]
     },
     {
       "id": 5,
@@ -47,7 +95,20 @@
       "numberOfRecipes": 30,
       "likes": 3000,
       "description": "Chalee Kader is a rising star in the culinary world with 8 years of experience. He has created 30 unique recipes that have gained over 3000 likes on his social media pages. His dishes are known for their bold flavors and unique twists.",
-      "viewRecipesButton": "https://example.com/chalee-kader/recipes"
+      "viewRecipesButton": "https://example.com/chalee-kader/recipes",
+      "recipeName": "Vegetable Fried Rice",
+        "ingredients": [
+          "cooked rice",
+          "carrots",
+          "peas",
+          "corn",
+          "soy sauce",
+          "garlic",
+          "green onions"
+        ],
+        "cookingMethod": "Saute garlic, carrots, peas, and corn, scramble eggs, add rice and soy sauce, stir fry until heated through, garnish with green onions.",
+        "rating": 4.3,
+        "favorites": [3]
     },
     {
       "id": 6,
@@ -57,7 +118,19 @@
       "numberOfRecipes": 40,
       "likes": 4000,
       "description": "Prin Polsuk is an experienced chef with 10 years of experience in the industry. He has created 40 delicious recipes that have garnered 4000 likes on his social media pages. His dishes are a perfect blend of traditional Thai flavors and modern cooking techniques.",
-      "viewRecipesButton": "https://example.com/prin-polsuk/recipes"
+      "viewRecipesButton": "https://example.com/prin-polsuk/recipes",
+      "recipeName": "Pesto Pasta with Sun-Dried Tomatoes",
+      "ingredients": [
+        "pasta",
+        "basil pesto",
+        "sun-dried tomatoes",
+        "parmesan cheese",
+        "garlic",
+        "olive oil"
+      ],
+      "cookingMethod": "Boil pasta, saute garlic in olive oil, add sun-dried tomatoes and pasta, toss with pesto and parmesan cheese.",
+      "rating": 4.7,
+      "favorites": [3]
     },
     {
       "id": 7,
@@ -67,7 +140,21 @@
       "numberOfRecipes": 100,
       "likes": 10000,
       "description": "Chumpol Jangprai is a legendary chef with 25 years of experience in the culinary world. He has created over 100 unique recipes that have gained over 10000 likes on his social media pages. His dishes are known for their rich flavors and unique presentation.",
-      "viewRecipesButton": "https://example.com/chumpol-jangprai/recipes"
+      "viewRecipesButton": "https://example.com/chumpol-jangprai/recipes",
+      "recipeName": "Stuffed Bell Peppers",
+        "ingredients": [
+          "bell peppers",
+          "ground beef",
+          "rice",
+          "tomato sauce",
+          "onion",
+          "garlic",
+          "salt",
+          "pepper"
+        ],
+        "cookingMethod": "Cut tops off bell peppers, brown beef with onion and garlic, mix with rice and tomato sauce, stuff into peppers, bake at 375F for 40 minutes.",
+        "rating": 4.8,
+        "favorites": [2, 7]
     },
     {
       "id": 8,
@@ -77,6 +164,20 @@
       "numberOfRecipes": 55,
       "likes": 5500,
       "description": "Bo Songvisava is a talented chef with 15 years of experience in the industry. She has created over 50 delicious recipes that have garnered thousands of likes on her social media pages. Her dishes are a perfect blend of traditional Thai flavors and modern cooking techniques.",
-      "viewRecipesButton": "https://example.com/bo-songvisava/recipes"
+      "viewRecipesButton": "https://example.com/bo-songvisava/recipes",
+      "recipeName": "Thai Green Curry",
+        "ingredients": [
+          "coconut milk",
+          "chicken",
+          "green curry paste",
+          "vegetables",
+          "fish sauce",
+          "brown sugar",
+          "lime juice",
+          "basil leaves"
+        ],
+        "cookingMethod": "Cook chicken and vegetables in curry paste, add coconut milk and simmer, add fish sauce, sugar, lime juice, and basil leaves.",
+        "rating": 4.9,
+        "favorites": [5, 9]
     }
 ]
